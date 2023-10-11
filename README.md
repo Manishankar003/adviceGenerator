@@ -23,5 +23,5 @@ Users should be able to:
 ## DEMO
 
 ## Author
-Developer Mani Shanker
+Developer Mani Shankar
 
