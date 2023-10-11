@@ -21,7 +21,7 @@ Users should be able to:
 - Mobile-first workflow
   
 ## DEMO
-https://codepen.io/Satheesh-Periyasamy-the-animator/pen/XWoarWa
+
 ## Author
 Developer Mani Shanker
 
